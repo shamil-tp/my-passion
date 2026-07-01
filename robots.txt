@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://shamil-tp.github.io/YOUR_REPOSITORY/sitemap.xml
